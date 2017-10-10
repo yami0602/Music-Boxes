@@ -1,0 +1,10 @@
+.keys {
+    display: flex;
+    justify-content: center;
+}
+
+.key {
+    width: 40px;
+    height: 120px;
+    border: 1px solid #bbb;
+}
